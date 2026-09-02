@@ -96,6 +96,6 @@ https://github.com/user-attachments/assets/7c48ac86-0451-4326-bc52-8f7a12fdcd96
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
 
-# RESULT
+# Result
 
 Videos were generated using progressively refined prompts. The experiment demonstrated that adding detailed descriptions of subjects, actions, environments, camera movements, lighting, textures, and cinematic characteristics provides greater control over AI-generated video content.
